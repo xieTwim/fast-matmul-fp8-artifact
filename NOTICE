@@ -1,0 +1,11 @@
+This repository contains author-created source code, coefficient data, and
+derived measurement tables for "Fast Matrix Multiplication in fp8: Certified
+Coefficient Optimization and Measured Error". These materials are released
+under the MIT License in LICENSE.
+
+No model checkpoints, corpus text, benchmark questions, DeepGEMM source,
+CUTLASS source, or other third-party software is redistributed here. The
+released JSON and CSV files contain derived numerical measurements produced by
+the authors. Repeating the GPU measurements requires separately obtaining the
+relevant model checkpoints, WikiText-2, PyTorch, and DeepGEMM under their own
+licenses.

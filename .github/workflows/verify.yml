@@ -1,0 +1,31 @@
+name: Verify artifact
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  PYTHONDONTWRITEBYTECODE: "1"
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: python3 verify.py
+      - run: python3 verify.py --control
+      - run: python3 scripts/analyze_realtile.py
+      - run: python3 scripts/analyze_nll.py
+      - run: python3 scripts/analyze_nll_robustness.py
+      - run: python3 -m pip install -r requirements.txt
+      - run: python3 scripts/bootstrap_realtile.py 4000

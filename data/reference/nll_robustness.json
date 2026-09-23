@@ -1,0 +1,100 @@
+{
+ "Qwen2.5-72B": {
+  "summary": {
+   "excess_nll_reduction_pct": 54.99,
+   "paired_wins": "30/32"
+  },
+  "primary_absolute_diff_nats": {
+   "mean": -0.05944125804567837,
+   "iid_bootstrap_ci95": [
+    -0.08084707498556067,
+    -0.041094171755089504
+   ],
+   "moving_block_ci95": {
+    "L=2": [
+     -0.08552662374812992,
+     -0.04228838076555297
+    ],
+    "L=4": [
+     -0.08861683335771794,
+     -0.04199013653004127
+    ]
+   }
+  },
+  "secondary_relative_reduction_pct": {
+   "point": 54.98534222820286,
+   "iid_bootstrap_ci95": [
+    47.718595932520046,
+    61.523818751670845
+   ]
+  },
+  "sign_test_p_chunkwise": 2.4633482098579407e-07,
+  "wilcoxon_exact": {
+   "W_plus": 5.0,
+   "p_two_sided": 4.6566128730773926e-09
+  },
+  "nonoverlapping_block_aggregation": {
+   "2": {
+    "n_blocks": 16,
+    "blocks_favoring_phi_opt": 16,
+    "sign_test_p": 3.0517578125e-05,
+    "mean_block_diff_nats": -0.05944125804567837
+   },
+   "4": {
+    "n_blocks": 8,
+    "blocks_favoring_phi_opt": 8,
+    "sign_test_p": 0.0078125,
+    "mean_block_diff_nats": -0.05944125804567837
+   }
+  }
+ },
+ "Llama-3.3-70B": {
+  "summary": {
+   "excess_nll_reduction_pct": 10.16,
+   "paired_wins": "22/32"
+  },
+  "primary_absolute_diff_nats": {
+   "mean": -0.01374308558410901,
+   "iid_bootstrap_ci95": [
+    -0.02585900277273218,
+    -0.000823064336161413
+   ],
+   "moving_block_ci95": {
+    "L=2": [
+     -0.026052816146483315,
+     -0.0011935188947947428
+    ],
+    "L=4": [
+     -0.021198644091410992,
+     -0.0022171441146942167
+    ]
+   }
+  },
+  "secondary_relative_reduction_pct": {
+   "point": 10.158377090963933,
+   "iid_bootstrap_ci95": [
+    0.6045102740708796,
+    19.841770339300425
+   ]
+  },
+  "sign_test_p_chunkwise": 0.050102459732443094,
+  "wilcoxon_exact": {
+   "W_plus": 136.0,
+   "p_two_sided": 0.015647762920707464
+  },
+  "nonoverlapping_block_aggregation": {
+   "2": {
+    "n_blocks": 16,
+    "blocks_favoring_phi_opt": 11,
+    "sign_test_p": 0.210113525390625,
+    "mean_block_diff_nats": -0.01374308558410901
+   },
+   "4": {
+    "n_blocks": 8,
+    "blocks_favoring_phi_opt": 6,
+    "sign_test_p": 0.2890625,
+    "mean_block_diff_nats": -0.01374308558410901
+   }
+  }
+ }
+}

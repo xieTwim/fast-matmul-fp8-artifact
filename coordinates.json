@@ -1,0 +1,1082 @@
+{
+ "description": "The balanced transform T* and the certified realization D* = T* . Strassen, exactly.  Elements of Q(rho) are given as coefficients of [1, rho, rho^2, rho^3] with rho = (4/3)^(1/4); the decimal forms are 34-digit conveniences, not the certificate.",
+ "rho": {
+  "definition": "rho^4 = 4/3",
+  "decimal": "1.0745699318235419195533381567059306"
+ },
+ "T_star": {
+  "definition": "[[rho^-1, rho/2], [0, rho]]; determinant 1; applied as X = Y = Z = T*",
+  "entries": [
+   [
+    {
+     "exact": "3/4*rho^3",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "3/4"
+     ],
+     "decimal": "0.9306048591020995989412187469832341"
+    },
+    {
+     "exact": "1/2*rho",
+     "coefficients": [
+      "0",
+      "1/2",
+      "0",
+      "0"
+     ],
+     "decimal": "0.5372849659117709597766690783529653"
+    }
+   ],
+   [
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1*rho",
+     "coefficients": [
+      "0",
+      "1",
+      "0",
+      "0"
+     ],
+     "decimal": "1.0745699318235419195533381567059306"
+    }
+   ]
+  ],
+  "inverse": [
+   [
+    {
+     "exact": "1*rho",
+     "coefficients": [
+      "0",
+      "1",
+      "0",
+      "0"
+     ],
+     "decimal": "1.0745699318235419195533381567059306"
+    },
+    {
+     "exact": "-1/2*rho",
+     "coefficients": [
+      "0",
+      "-1/2",
+      "0",
+      "0"
+     ],
+     "decimal": "-0.5372849659117709597766690783529653"
+    }
+   ],
+   [
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "3/4*rho^3",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "3/4"
+     ],
+     "decimal": "0.9306048591020995989412187469832341"
+    }
+   ]
+  ]
+ },
+ "D_star": {
+  "definition": "rows indexed by the seven products; each row is a 2x2 pattern flattened row-major.  U and V are the encoders, W the decoder.",
+  "U": [
+   [
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    }
+   ],
+   [
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/2",
+      "0"
+     ],
+     "decimal": "0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    }
+   ],
+   [
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/2",
+      "0"
+     ],
+     "decimal": "0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    }
+   ],
+   [
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "-1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "-1/2",
+      "0"
+     ],
+     "decimal": "-0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    }
+   ],
+   [
+    {
+     "exact": "1/2",
+     "coefficients": [
+      "1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0.5"
+    },
+    {
+     "exact": "3/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "3/4",
+      "0"
+     ],
+     "decimal": "0.8660254037844386467637231707529362"
+    },
+    {
+     "exact": "1/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/4",
+      "0"
+     ],
+     "decimal": "0.2886751345948128822545743902509787"
+    },
+    {
+     "exact": "1/2",
+     "coefficients": [
+      "1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0.5"
+    }
+   ],
+   [
+    {
+     "exact": "-1",
+     "coefficients": [
+      "-1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "-1"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/2",
+      "0"
+     ],
+     "decimal": "0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    }
+   ],
+   [
+    {
+     "exact": "-1/2",
+     "coefficients": [
+      "-1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "-0.5"
+    },
+    {
+     "exact": "3/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "3/4",
+      "0"
+     ],
+     "decimal": "0.8660254037844386467637231707529362"
+    },
+    {
+     "exact": "1/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/4",
+      "0"
+     ],
+     "decimal": "0.2886751345948128822545743902509787"
+    },
+    {
+     "exact": "-1/2",
+     "coefficients": [
+      "-1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "-0.5"
+    }
+   ]
+  ],
+  "V": [
+   [
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    }
+   ],
+   [
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/2",
+      "0"
+     ],
+     "decimal": "0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    }
+   ],
+   [
+    {
+     "exact": "-1/2",
+     "coefficients": [
+      "-1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "-0.5"
+    },
+    {
+     "exact": "3/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "3/4",
+      "0"
+     ],
+     "decimal": "0.8660254037844386467637231707529362"
+    },
+    {
+     "exact": "1/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/4",
+      "0"
+     ],
+     "decimal": "0.2886751345948128822545743902509787"
+    },
+    {
+     "exact": "-1/2",
+     "coefficients": [
+      "-1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "-0.5"
+    }
+   ],
+   [
+    {
+     "exact": "-1",
+     "coefficients": [
+      "-1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "-1"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/2",
+      "0"
+     ],
+     "decimal": "0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    }
+   ],
+   [
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "-1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "-1/2",
+      "0"
+     ],
+     "decimal": "-0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    }
+   ],
+   [
+    {
+     "exact": "1/2",
+     "coefficients": [
+      "1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0.5"
+    },
+    {
+     "exact": "3/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "3/4",
+      "0"
+     ],
+     "decimal": "0.8660254037844386467637231707529362"
+    },
+    {
+     "exact": "1/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/4",
+      "0"
+     ],
+     "decimal": "0.2886751345948128822545743902509787"
+    },
+    {
+     "exact": "1/2",
+     "coefficients": [
+      "1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0.5"
+    }
+   ],
+   [
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/2",
+      "0"
+     ],
+     "decimal": "0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    }
+   ]
+  ],
+  "W": [
+   [
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    }
+   ],
+   [
+    {
+     "exact": "-1/2",
+     "coefficients": [
+      "-1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "-0.5"
+    },
+    {
+     "exact": "1/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/4",
+      "0"
+     ],
+     "decimal": "0.2886751345948128822545743902509787"
+    },
+    {
+     "exact": "3/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "3/4",
+      "0"
+     ],
+     "decimal": "0.8660254037844386467637231707529362"
+    },
+    {
+     "exact": "-1/2",
+     "coefficients": [
+      "-1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "-0.5"
+    }
+   ],
+   [
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/2",
+      "0"
+     ],
+     "decimal": "0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    }
+   ],
+   [
+    {
+     "exact": "1/2",
+     "coefficients": [
+      "1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0.5"
+    },
+    {
+     "exact": "1/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/4",
+      "0"
+     ],
+     "decimal": "0.2886751345948128822545743902509787"
+    },
+    {
+     "exact": "3/4*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "3/4",
+      "0"
+     ],
+     "decimal": "0.8660254037844386467637231707529362"
+    },
+    {
+     "exact": "1/2",
+     "coefficients": [
+      "1/2",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0.5"
+    }
+   ],
+   [
+    {
+     "exact": "-1",
+     "coefficients": [
+      "-1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "-1"
+    },
+    {
+     "exact": "1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/2",
+      "0"
+     ],
+     "decimal": "0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    }
+   ],
+   [
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "-1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "-1/2",
+      "0"
+     ],
+     "decimal": "-0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    }
+   ],
+   [
+    {
+     "exact": "1",
+     "coefficients": [
+      "1",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "1"
+    },
+    {
+     "exact": "1/2*rho^2",
+     "coefficients": [
+      "0",
+      "0",
+      "1/2",
+      "0"
+     ],
+     "decimal": "0.5773502691896257645091487805019575"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    },
+    {
+     "exact": "0",
+     "coefficients": [
+      "0",
+      "0",
+      "0",
+      "0"
+     ],
+     "decimal": "0"
+    }
+   ]
+  ]
+ },
+ "phi_masses": {
+  "definition": "||u_r||^2 ||v_r||^2 ||w_r||^2 for each of the seven terms",
+  "values": [
+   "8",
+   "64/27",
+   "64/27",
+   "64/27",
+   "64/27",
+   "64/27",
+   "64/27"
+  ],
+  "all_rational": true
+ },
+ "phi": {
+  "exact": "200/9",
+  "coefficients": [
+   "200/9",
+   "0",
+   "0",
+   "0"
+  ],
+  "decimal": "22.2222222222222222222222222222222222"
+ },
+ "hessian": {
+  "definition": "the exact 6x6 coordinate Hessian d^2 Phi/dt^2 at T* over Sym_0(2)^3, derived in check_floor.py",
+  "is_critical_point": true,
+  "matrix": [
+   [
+    "112/3",
+    "0",
+    "-104/9",
+    "0",
+    "-104/9",
+    "0"
+   ],
+   [
+    "0",
+    "112/3",
+    "0",
+    "-104/9",
+    "0",
+    "-104/9"
+   ],
+   [
+    "-104/9",
+    "0",
+    "112/3",
+    "0",
+    "-104/9",
+    "0"
+   ],
+   [
+    "0",
+    "-104/9",
+    "0",
+    "112/3",
+    "0",
+    "-104/9"
+   ],
+   [
+    "-104/9",
+    "0",
+    "-104/9",
+    "0",
+    "112/3",
+    "0"
+   ],
+   [
+    "0",
+    "-104/9",
+    "0",
+    "-104/9",
+    "0",
+    "112/3"
+   ]
+  ],
+  "ldl_pivots": [
+   "112/3",
+   "112/3",
+   "6380/189",
+   "6380/189",
+   "7040/261",
+   "7040/261"
+  ],
+  "eigenvalues": {
+   "128/9": 2,
+   "440/9": 4
+  }
+ }
+}

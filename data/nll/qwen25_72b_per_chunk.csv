@@ -1,0 +1,257 @@
+model,mode,arm,chunk_id,ppl,kl,flip
+Qwen2.5-72B-Instruct,scale,clean,0,4.462626,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,1,2.827008,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,2,1.689504,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,3,1.801292,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,4,2.010713,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,5,1.790610,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,6,3.828126,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,7,7.471364,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,8,5.137505,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,9,4.909170,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,10,4.533745,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,11,2.605750,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,12,2.672036,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,13,2.261002,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,14,4.243858,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,15,4.954810,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,16,4.530448,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,17,6.026226,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,18,7.164084,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,19,6.364283,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,20,6.382511,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,21,7.222752,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,22,5.527042,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,23,8.841620,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,24,3.273932,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,25,3.262749,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,26,6.341559,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,27,5.591230,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,28,5.128252,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,29,4.872055,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,30,3.974912,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,clean,31,5.810768,0.000000,0.000000
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,0,4.508531,0.008953,0.040039
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,1,2.855431,0.019026,0.032227
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,2,1.710197,0.019798,0.028320
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,3,1.826030,0.023203,0.030273
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,4,2.067495,0.029169,0.035156
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,5,1.833459,0.033129,0.045898
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,6,3.902548,0.020095,0.063477
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,7,7.574772,0.010771,0.062500
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,8,5.132188,0.009560,0.059570
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,9,5.003321,0.014165,0.063477
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,10,4.560981,0.009218,0.036133
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,11,2.608134,0.008664,0.033203
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,12,2.674134,0.013015,0.046875
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,13,2.267631,0.013476,0.024414
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,14,4.263642,0.010583,0.040039
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,15,4.967274,0.010917,0.035156
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,16,4.591748,0.011453,0.058594
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,17,6.056939,0.012825,0.069336
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,18,7.208422,0.012667,0.066406
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,19,6.433390,0.009094,0.048828
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,20,6.460538,0.009531,0.059570
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,21,7.237207,0.009854,0.065430
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,22,5.555711,0.010356,0.052734
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,23,8.930234,0.011403,0.076172
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,24,3.342362,0.019063,0.045898
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,25,3.352357,0.019822,0.047852
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,26,6.434640,0.010557,0.060547
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,27,5.648328,0.013306,0.054688
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,28,5.203124,0.014633,0.062500
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,29,4.903519,0.011914,0.052734
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,30,4.014555,0.019586,0.048828
+Qwen2.5-72B-Instruct,scale,cubic_fp8 all,31,5.904808,0.012841,0.066406
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,0,4.837767,0.080312,0.106445
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,1,4.351855,0.500091,0.185547
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,2,2.806172,0.576904,0.200195
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,3,2.732609,0.459981,0.170898
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,4,3.847579,0.715497,0.231445
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,5,3.136229,0.643102,0.223633
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,6,5.255270,0.489183,0.234375
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,7,8.517341,0.163291,0.157227
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,8,5.535768,0.145713,0.163086
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,9,7.310143,0.463821,0.233398
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,10,5.044354,0.131626,0.117188
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,11,2.766112,0.102620,0.109375
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,12,2.892058,0.110990,0.102539
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,13,2.546716,0.200260,0.113281
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,14,4.506923,0.109948,0.112305
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,15,5.460304,0.122593,0.139648
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,16,5.045391,0.136092,0.154297
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,17,6.854992,0.141073,0.188477
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,18,7.989909,0.159387,0.184570
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,19,7.084972,0.140160,0.161133
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,20,7.315368,0.161666,0.183594
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,21,7.849055,0.149663,0.159180
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,22,6.097215,0.153065,0.144531
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,23,9.446473,0.111447,0.151367
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,24,5.233269,0.489664,0.229492
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,25,4.171067,0.301199,0.203125
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,26,6.888275,0.127153,0.166016
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,27,6.427015,0.153571,0.168945
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,28,5.601077,0.149201,0.171875
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,29,5.702773,0.186081,0.164062
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,30,5.035267,0.252351,0.182617
+Qwen2.5-72B-Instruct,scale,wino_fp8 all,31,7.189217,0.247391,0.209961
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,0,4.743271,0.068538,0.091797
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,1,4.293833,0.493331,0.183594
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,2,2.792146,0.573889,0.193359
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,3,2.695241,0.448556,0.162109
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,4,3.837993,0.713989,0.230469
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,5,3.102174,0.630220,0.213867
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,6,5.175144,0.474757,0.222656
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,7,8.425805,0.143990,0.137695
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,8,5.425312,0.131822,0.137695
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,9,7.204399,0.446687,0.217773
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,10,5.018855,0.120736,0.100586
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,11,2.752657,0.094536,0.100586
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,12,2.864613,0.102865,0.106445
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,13,2.511834,0.191645,0.109375
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,14,4.437220,0.097146,0.103516
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,15,5.439314,0.106979,0.109375
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,16,4.980544,0.121146,0.130859
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,17,6.777505,0.124419,0.166992
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,18,7.929531,0.147595,0.166016
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,19,6.968757,0.125703,0.133789
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,20,7.202647,0.147681,0.158203
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,21,7.777619,0.137906,0.147461
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,22,5.941092,0.137685,0.138672
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,23,9.266808,0.094614,0.128906
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,24,5.193087,0.480235,0.218750
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,25,4.109601,0.289566,0.194336
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,26,6.770651,0.112528,0.145508
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,27,6.303206,0.138127,0.159180
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,28,5.505747,0.137592,0.156250
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,29,5.638858,0.175027,0.151367
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,30,4.981581,0.245308,0.179688
+Qwen2.5-72B-Instruct,scale,wino_fp8 body,31,7.084901,0.234780,0.195312
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,0,4.656651,0.047429,0.096680
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,1,3.432985,0.224844,0.113281
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,2,1.971979,0.177773,0.079102
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,3,2.279280,0.251111,0.138672
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,4,2.658694,0.331744,0.148438
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,5,2.649277,0.439309,0.171875
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,6,4.227195,0.177131,0.141602
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,7,7.885157,0.071739,0.130859
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,8,5.236257,0.077454,0.109375
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,9,6.155647,0.266181,0.188477
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,10,4.807118,0.065450,0.095703
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,11,2.723546,0.056184,0.078125
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,12,2.830616,0.078469,0.084961
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,13,2.524883,0.152528,0.086914
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,14,4.440966,0.061252,0.092773
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,15,5.337415,0.084075,0.101562
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,16,4.815482,0.080627,0.120117
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,17,6.532983,0.087194,0.163086
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,18,7.806779,0.098312,0.150391
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,19,6.928399,0.102389,0.119141
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,20,6.842356,0.091460,0.131836
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,21,7.511521,0.077396,0.128906
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,22,5.988843,0.092244,0.129883
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,23,9.022781,0.068355,0.151367
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,24,4.080081,0.254444,0.152344
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,25,3.702171,0.155902,0.133789
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,26,6.974345,0.075553,0.125000
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,27,5.957173,0.080197,0.137695
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,28,5.370392,0.097660,0.129883
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,29,5.483083,0.116043,0.145508
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,30,4.550911,0.152641,0.139648
+Qwen2.5-72B-Instruct,scale,stras_fp8 all,31,6.084700,0.094886,0.138672
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,0,4.598463,0.034419,0.076172
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,1,3.411711,0.217042,0.099609
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,2,1.971028,0.174568,0.078125
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,3,2.286444,0.246516,0.131836
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,4,2.652269,0.330907,0.142578
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,5,2.640170,0.436264,0.169922
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,6,4.187201,0.169628,0.125977
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,7,7.763846,0.056482,0.096680
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,8,5.207586,0.067296,0.102539
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,9,6.128063,0.258071,0.178711
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,10,4.784522,0.055949,0.070312
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,11,2.707859,0.050063,0.078125
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,12,2.805672,0.071164,0.070312
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,13,2.521763,0.148455,0.084961
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,14,4.426541,0.049502,0.074219
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,15,5.277148,0.073336,0.090820
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,16,4.748262,0.070811,0.112305
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,17,6.444649,0.074350,0.138672
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,18,7.675660,0.085640,0.108398
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,19,6.898911,0.091002,0.098633
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,20,6.758521,0.078844,0.111328
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,21,7.412409,0.065368,0.094727
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,22,5.917948,0.079715,0.106445
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,23,8.943133,0.051236,0.107422
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,24,4.073369,0.245397,0.137695
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,25,3.691933,0.147817,0.127930
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,26,6.818956,0.062080,0.099609
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,27,5.931209,0.068620,0.117188
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,28,5.318752,0.088887,0.113281
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,29,5.415604,0.106009,0.129883
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,30,4.500017,0.141595,0.136719
+Qwen2.5-72B-Instruct,scale,stras_fp8 body,31,6.011042,0.083112,0.119141
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,0,4.699113,0.031952,0.079102
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,1,3.066436,0.101693,0.069336
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,2,1.812202,0.108646,0.056641
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,3,1.983502,0.112519,0.085938
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,4,2.115992,0.135805,0.092773
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,5,2.164366,0.186782,0.105469
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,6,4.198118,0.100027,0.113281
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,7,7.626382,0.044415,0.096680
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,8,5.177563,0.039301,0.098633
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,9,5.210474,0.079514,0.095703
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,10,4.738296,0.051720,0.089844
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,11,2.624425,0.034470,0.065430
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,12,2.716447,0.042868,0.069336
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,13,2.388102,0.071469,0.068359
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,14,4.350710,0.041450,0.093750
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,15,5.072324,0.045910,0.085938
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,16,4.564532,0.048692,0.094727
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,17,6.235987,0.049797,0.116211
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,18,7.590710,0.052376,0.114258
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,19,6.639393,0.060998,0.096680
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,20,6.578721,0.058150,0.117188
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,21,7.342835,0.046734,0.097656
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,22,5.653814,0.058892,0.114258
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,23,9.051053,0.042471,0.126953
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,24,3.560893,0.107964,0.095703
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,25,3.499017,0.100103,0.106445
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,26,6.548884,0.043317,0.090820
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,27,5.769556,0.055218,0.090820
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,28,5.346983,0.068911,0.103516
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,29,5.199662,0.069233,0.106445
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,30,4.310238,0.087994,0.103516
+Qwen2.5-72B-Instruct,scale,acc_fp8 all,31,5.965316,0.068373,0.119141
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,0,4.651008,0.021698,0.059570
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,1,3.045808,0.096070,0.055664
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,2,1.806520,0.106008,0.054688
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,3,1.980626,0.110696,0.080078
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,4,2.117065,0.132407,0.088867
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,5,2.151900,0.183401,0.108398
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,6,4.174853,0.094230,0.094727
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,7,7.576280,0.031409,0.067383
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,8,5.112664,0.028520,0.079102
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,9,5.165140,0.073326,0.100586
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,10,4.685334,0.040294,0.063477
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,11,2.611407,0.029472,0.052734
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,12,2.709384,0.037208,0.067383
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,13,2.371734,0.066134,0.064453
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,14,4.344598,0.031819,0.071289
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,15,5.008861,0.035904,0.070312
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,16,4.541160,0.038623,0.079102
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,17,6.169457,0.037795,0.097656
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,18,7.476259,0.040997,0.091797
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,19,6.599443,0.049586,0.070312
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,20,6.509103,0.042888,0.090820
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,21,7.318378,0.037732,0.090820
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,22,5.640754,0.049063,0.087891
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,23,8.963927,0.027632,0.082031
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,24,3.537611,0.101385,0.091797
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,25,3.467953,0.094706,0.098633
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,26,6.517535,0.030694,0.072266
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,27,5.703808,0.043917,0.071289
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,28,5.310684,0.059729,0.090820
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,29,5.151622,0.060983,0.097656
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,30,4.305704,0.083178,0.095703
+Qwen2.5-72B-Instruct,scale,acc_fp8 body,31,5.937254,0.058083,0.113281

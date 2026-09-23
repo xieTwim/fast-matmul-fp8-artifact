@@ -1,0 +1,257 @@
+model,mode,arm,chunk_id,ppl,kl,flip
+Llama-3.3-70B-Instruct,scale,clean,0,3.599334,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,1,2.799713,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,2,2.622443,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,3,2.828931,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,4,2.606857,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,5,3.238750,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,6,4.234351,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,7,4.262694,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,8,5.565236,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,9,3.410396,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,10,3.929994,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,11,2.251612,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,12,2.103954,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,13,3.449041,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,14,4.343378,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,15,4.804682,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,16,5.172407,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,17,6.825590,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,18,5.738215,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,19,5.925798,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,20,5.526777,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,21,5.288516,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,22,10.293704,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,23,2.152512,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,24,3.921441,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,25,6.651012,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,26,7.799432,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,27,6.191855,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,28,5.571792,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,29,6.713060,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,30,7.779692,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,clean,31,7.631633,0.000000,0.000000
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,0,3.632336,0.005241,0.016602
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,1,2.875905,0.027770,0.037109
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,2,2.696295,0.037300,0.070312
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,3,2.918189,0.037207,0.054688
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,4,2.713651,0.056408,0.069336
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,5,3.413896,0.043018,0.068359
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,6,4.356089,0.025375,0.061523
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,7,4.302818,0.010519,0.039062
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,8,5.592199,0.008367,0.041016
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,9,3.439882,0.012838,0.029297
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,10,3.992114,0.009454,0.038086
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,11,2.253375,0.016558,0.027344
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,12,2.122003,0.018737,0.040039
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,13,3.476514,0.012504,0.049805
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,14,4.368867,0.012996,0.046875
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,15,4.845628,0.009157,0.038086
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,16,5.384403,0.021513,0.064453
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,17,6.818035,0.011098,0.050781
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,18,5.783620,0.006698,0.041992
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,19,6.010791,0.006413,0.034180
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,20,5.535516,0.012402,0.051758
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,21,5.300789,0.006366,0.042969
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,22,10.350316,0.005994,0.038086
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,23,2.257152,0.038297,0.043945
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,24,3.957919,0.015789,0.038086
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,25,6.659997,0.007810,0.044922
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,26,7.786543,0.009140,0.049805
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,27,6.197191,0.007812,0.044922
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,28,5.622275,0.008576,0.025391
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,29,6.747623,0.009091,0.035156
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,30,7.774788,0.007845,0.040039
+Llama-3.3-70B-Instruct,scale,cubic_fp8 all,31,7.638999,0.008950,0.047852
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,0,4.316094,0.150347,0.125000
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,1,5.099285,0.642254,0.270508
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,2,5.095197,0.640567,0.302734
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,3,6.341833,0.767473,0.305664
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,4,6.460814,0.892253,0.334961
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,5,6.928789,0.662530,0.299805
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,6,6.555812,0.363528,0.223633
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,7,5.266562,0.181657,0.172852
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,8,6.487402,0.173831,0.166016
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,9,5.062553,0.341244,0.211914
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,10,4.878945,0.233881,0.154297
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,11,3.141433,0.381250,0.180664
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,12,2.854749,0.348390,0.169922
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,13,4.885693,0.351850,0.210938
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,14,5.389205,0.238485,0.180664
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,15,5.811952,0.199720,0.163086
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,16,7.108335,0.340115,0.272461
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,17,8.348740,0.241184,0.226562
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,18,6.912996,0.214014,0.180664
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,19,7.087045,0.151576,0.184570
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,20,6.232760,0.139732,0.152344
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,21,5.879167,0.107485,0.152344
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,22,11.830793,0.141026,0.163086
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,23,4.310251,0.686350,0.259766
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,24,7.307267,0.529470,0.291992
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,25,8.076651,0.170836,0.162109
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,26,9.157226,0.185509,0.198242
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,27,7.233590,0.158052,0.178711
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,28,6.447097,0.173134,0.164062
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,29,8.515259,0.307862,0.206055
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,30,9.253912,0.149941,0.181641
+Llama-3.3-70B-Instruct,scale,wino_fp8 all,31,9.370956,0.217946,0.214844
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,0,4.302561,0.146612,0.114258
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,1,5.070700,0.637215,0.270508
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,2,5.062910,0.635615,0.293945
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,3,6.302368,0.762817,0.300781
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,4,6.417136,0.888043,0.330078
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,5,6.916167,0.658527,0.296875
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,6,6.514165,0.355336,0.227539
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,7,5.205427,0.175741,0.166992
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,8,6.472186,0.167875,0.157227
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,9,5.059865,0.339171,0.204102
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,10,4.869585,0.229878,0.149414
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,11,3.138580,0.378298,0.185547
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,12,2.844797,0.349246,0.166992
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,13,4.865947,0.347249,0.207031
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,14,5.398392,0.234065,0.181641
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,15,5.778611,0.195463,0.157227
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,16,7.094267,0.335701,0.260742
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,17,8.361626,0.235445,0.222656
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,18,6.864274,0.208420,0.184570
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,19,7.058013,0.146090,0.171875
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,20,6.223249,0.134218,0.147461
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,21,5.881120,0.103083,0.134766
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,22,11.798214,0.134995,0.147461
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,23,4.274493,0.678470,0.261719
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,24,7.231263,0.521721,0.282227
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,25,8.032376,0.165301,0.156250
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,26,9.113759,0.179541,0.192383
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,27,7.199277,0.151246,0.169922
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,28,6.406726,0.168843,0.156250
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,29,8.449154,0.303480,0.204102
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,30,9.234196,0.144779,0.174805
+Llama-3.3-70B-Instruct,scale,wino_fp8 body,31,9.345828,0.212988,0.208008
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,0,3.810586,0.062467,0.082031
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,1,3.566073,0.254342,0.135742
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,2,3.651054,0.317365,0.201172
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,3,4.066753,0.344012,0.208984
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,4,3.814492,0.347249,0.193359
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,5,4.626992,0.311918,0.191406
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,6,5.221884,0.184562,0.155273
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,7,4.636773,0.063863,0.109375
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,8,5.847059,0.069072,0.121094
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,9,3.850940,0.122250,0.113281
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,10,4.400711,0.096628,0.105469
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,11,2.573661,0.166979,0.115234
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,12,2.494896,0.162866,0.113281
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,13,4.001417,0.129642,0.126953
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,14,4.608889,0.114805,0.129883
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,15,5.263765,0.097057,0.105469
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,16,5.804084,0.129891,0.162109
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,17,7.105443,0.084825,0.134766
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,18,5.946075,0.056455,0.106445
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,19,6.230397,0.057484,0.111328
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,20,5.906422,0.080951,0.124023
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,21,5.638339,0.058951,0.111328
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,22,10.923343,0.057438,0.115234
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,23,3.015212,0.310684,0.172852
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,24,4.816393,0.172608,0.142578
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,25,6.957894,0.068814,0.106445
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,26,8.143336,0.079226,0.121094
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,27,6.611319,0.065216,0.116211
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,28,5.997000,0.073899,0.103516
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,29,7.240811,0.092912,0.125977
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,30,8.201585,0.061620,0.094727
+Llama-3.3-70B-Instruct,scale,stras_fp8 all,31,8.338475,0.080546,0.136719
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,0,3.792671,0.058639,0.073242
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,1,3.547210,0.249811,0.132812
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,2,3.648609,0.312949,0.196289
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,3,4.056204,0.343563,0.204102
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,4,3.806371,0.343456,0.189453
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,5,4.623076,0.309134,0.188477
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,6,5.219828,0.181812,0.156250
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,7,4.618189,0.061393,0.106445
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,8,5.829995,0.064594,0.108398
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,9,3.835017,0.119986,0.104492
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,10,4.380310,0.090707,0.094727
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,11,2.577223,0.164843,0.114258
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,12,2.502832,0.160627,0.109375
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,13,3.981504,0.126012,0.124023
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,14,4.590138,0.110750,0.125000
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,15,5.227776,0.092784,0.104492
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,16,5.768343,0.125430,0.160156
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,17,7.088865,0.079162,0.116211
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,18,5.919621,0.052442,0.098633
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,19,6.247527,0.052554,0.103516
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,20,5.855754,0.077672,0.116211
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,21,5.655030,0.054839,0.099609
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,22,10.918377,0.051798,0.089844
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,23,3.001670,0.310351,0.175781
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,24,4.813425,0.167513,0.139648
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,25,6.922871,0.063449,0.091797
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,26,8.061288,0.074132,0.109375
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,27,6.592715,0.060444,0.105469
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,28,5.953047,0.068860,0.103516
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,29,7.216861,0.087723,0.125977
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,30,8.157650,0.056578,0.083984
+Llama-3.3-70B-Instruct,scale,stras_fp8 body,31,8.269599,0.074501,0.122070
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,0,3.819834,0.056190,0.076172
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,1,3.273204,0.173887,0.118164
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,2,3.478023,0.294967,0.172852
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,3,4.407729,0.424614,0.217773
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,4,3.847583,0.355716,0.197266
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,5,4.500008,0.270384,0.172852
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,6,4.924568,0.183974,0.147461
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,7,4.518218,0.056529,0.116211
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,8,5.797679,0.055412,0.096680
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,9,4.013723,0.155153,0.143555
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,10,4.279156,0.087122,0.086914
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,11,2.587021,0.140308,0.106445
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,12,2.379808,0.134432,0.105469
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,13,3.870953,0.112246,0.109375
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,14,4.704953,0.094614,0.128906
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,15,5.016250,0.074302,0.093750
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,16,5.776071,0.127360,0.153320
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,17,7.239176,0.079616,0.153320
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,18,5.875468,0.048586,0.088867
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,19,6.167313,0.043736,0.090820
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,20,5.768050,0.049664,0.100586
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,21,5.412286,0.043586,0.092773
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,22,10.602527,0.043744,0.086914
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,23,2.800982,0.268209,0.155273
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,24,5.144560,0.200085,0.153320
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,25,7.087309,0.058160,0.100586
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,26,8.308090,0.059457,0.125000
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,27,6.573999,0.051737,0.099609
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,28,5.871046,0.060044,0.087891
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,29,7.009082,0.076979,0.106445
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,30,7.974606,0.080674,0.118164
+Llama-3.3-70B-Instruct,scale,acc_fp8 all,31,8.113255,0.065438,0.110352
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,0,3.813679,0.054749,0.066406
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,1,3.280433,0.172805,0.113281
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,2,3.474754,0.293437,0.172852
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,3,4.410875,0.422396,0.218750
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,4,3.849983,0.354039,0.198242
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,5,4.487643,0.266782,0.172852
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,6,4.915579,0.181688,0.152344
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,7,4.509848,0.054028,0.105469
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,8,5.767544,0.052611,0.096680
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,9,3.994635,0.153352,0.137695
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,10,4.266008,0.085173,0.080078
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,11,2.587787,0.138223,0.105469
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,12,2.374400,0.133343,0.104492
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,13,3.865287,0.109159,0.106445
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,14,4.697209,0.092070,0.126953
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,15,5.026484,0.071443,0.091797
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,16,5.785651,0.123799,0.140625
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,17,7.233035,0.076851,0.143555
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,18,5.906482,0.045032,0.087891
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,19,6.113454,0.040841,0.090820
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,20,5.758847,0.046991,0.088867
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,21,5.400681,0.040555,0.083008
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,22,10.577304,0.039556,0.081055
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,23,2.801959,0.268482,0.159180
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,24,5.146725,0.199025,0.158203
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,25,7.094176,0.054849,0.094727
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,26,8.248795,0.056155,0.111328
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,27,6.552400,0.049120,0.089844
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,28,5.858516,0.057877,0.094727
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,29,6.980514,0.073322,0.104492
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,30,7.941433,0.076898,0.113281
+Llama-3.3-70B-Instruct,scale,acc_fp8 body,31,8.086545,0.062092,0.094727
